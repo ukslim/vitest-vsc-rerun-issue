@@ -1,0 +1,21 @@
+{
+  "name": "package-nx4ro2",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "{projectRoot}/src",
+  "projectType": "library",
+  "targets": {
+    "build": {
+      "executor": "@nx/js:tsc"
+    },
+    "lint": {
+      "executor": "@nx/eslint:lint"
+    },
+    "test": {
+      "executor": "@nx/vite:test"
+    },
+    "type-check:lib": {},
+    "test:evidence": {},
+    "test:evidence:debug": {}
+  },
+  "tags": []
+}

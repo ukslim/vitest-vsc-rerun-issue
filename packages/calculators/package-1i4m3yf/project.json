@@ -1,0 +1,45 @@
+{
+  "name": "package-1i4m3yf",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "{projectRoot}/src",
+  "projectType": "library",
+  "targets": {
+    "build": {
+      "executor": "@nx/js:tsc"
+    },
+    "lint": {
+      "executor": "@nx/eslint:lint"
+    },
+    "test": {
+      "executor": "@nx/vite:test"
+    },
+    "type-check:lib": {},
+    "tools:batch-income-tax": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          "ts-node --project '{projectRoot}/tsconfig.lib.json' -r tsconfig-paths/register '{projectRoot}/src/tools/batch-income-tax.ts'"
+        ],
+        "parallel": false
+      }
+    },
+    "tools:batch-gross-needs": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          "ts-node --project '{projectRoot}/tsconfig.lib.json' -r tsconfig-paths/register '{projectRoot}/src/tools/batch-gross-needs.ts'"
+        ],
+        "parallel": false
+      }
+    },
+    "test:evidence": {},
+    "test:evidence:debug": {},
+    "impacts:tenant:advice": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": []
+      }
+    }
+  },
+  "tags": []
+}

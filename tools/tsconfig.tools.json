@@ -1,0 +1,17 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "../dist/out-tsc/tools",
+    "rootDir": ".",
+    "module": "commonjs",
+    "esModuleInterop": false, // fore some reason convert-to-junit.ts is really not happy with this being true
+    "target": "es5",
+    "types": [
+      "node"
+    ],
+    "importHelpers": false
+  },
+  "include": [
+    "**/*.ts"
+  ]
+}

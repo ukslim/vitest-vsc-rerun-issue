@@ -1,0 +1,7 @@
+onlyBuiltDependencies:
+  - nx
+  - '@swc/core'
+  - aws-sdk
+  - esbuild
+  - protobufjs
+  - unrs-resolver

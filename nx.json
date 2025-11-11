@@ -1,0 +1,164 @@
+{
+  "pluginsConfig": {
+    "@nx/js": {
+      "analyzeSourceFiles": true
+    }
+  },
+  "extends": "nx/presets/npm.json",
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "namedInputs": {
+    "default": [
+      "{projectRoot}/**/*",
+      "sharedGlobals"
+    ],
+    "production": [
+      "default",
+      "!{projectRoot}/.eslintrc.json",
+      "!{projectRoot}/eslint.config.js",
+      "!{projectRoot}/**/?(*.)+(test).[jt]s?(x)?(.snap)",
+      "!{projectRoot}/tsconfig.test.json",
+      "!{projectRoot}/src/test-setup.[jt]s",
+      "!{projectRoot}/test-setup.[jt]s",
+      "!{projectRoot}/test/**/*"
+    ],
+    "sharedGlobals": [],
+    "stage": [
+      {
+        "env": "STAGE"
+      }
+    ]
+  },
+  "targetDefaults": {
+    "@nx/vite:test": {
+      "options": {
+        "passWithNoTests": true,
+        "reportsDirectory": "../../../reports/{projectRoot}",
+        "coverage": {}
+      }
+    },
+    "deploy": {
+      "inputs": [
+        "production",
+        "^production",
+        {
+          "env": "STAGE"
+        }
+      ],
+      "cache": true
+    },
+    "api:extractor": {
+      "executor": "nx:run-commands",
+      "dependsOn": [
+        "build"
+      ],
+      "options": {
+        "commands": [
+          "pnpm api-extractor run --config {projectRoot}/api-extractor.json"
+        ]
+      },
+      "cache": true
+    },
+    "bundle": {
+      "executor": "nx:run-commands",
+      "dependsOn": [
+        "api:extractor",
+        "bundle:esbuild"
+      ],
+      "options": {
+        "commands": [
+          "node tools/scripts/bundle-extra-files.js --projectRoot={projectRoot}"
+        ]
+      },
+      "cache": true
+    },
+    "bundle:esbuild": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          "node tools/scripts/esbuild.mjs --projectRoot={projectRoot}"
+        ]
+      },
+      "cache": true
+    },
+    "publish": {
+      "dependsOn": [
+        "bundle"
+      ],
+      "executor": "@tools/my-plugin:publish-npm-package",
+      "cache": true
+    },
+    "package": {
+      "inputs": [
+        "production",
+        "^production",
+        {
+          "env": "STAGE"
+        }
+      ],
+      "cache": true
+    },
+    "@nx/eslint:lint": {
+      "cache": true,
+      "inputs": [
+        "default",
+        "{workspaceRoot}/.eslintrc.json",
+        "{workspaceRoot}/.eslintignore",
+        "{workspaceRoot}/eslint.config.js"
+      ],
+      "outputs": [
+        "{options.outputFile}"
+      ]
+    },
+    "@nx/js:tsc": {
+      "cache": true,
+      "dependsOn": [
+        "^build"
+      ],
+      "inputs": [
+        "production",
+        "^production"
+      ],
+      "outputs": [
+        "{options.outputPath}"
+      ],
+      "options": {
+        "main": "{projectRoot}/src/index.ts",
+        "outputPath": "{projectRoot}/dist",
+        "tsConfig": "{projectRoot}/tsconfig.lib.json"
+      }
+    },
+    "build": {
+      "inputs": [
+        "production",
+        "^production"
+      ],
+      "cache": true
+    }
+  },
+  "workspaceLayout": {
+    "appsDir": "packages",
+    "libsDir": "packages"
+  },
+  "tasksRunnerOptions": {
+    "default": {
+      "options": {
+        "cacheableOperations": [
+          "package",
+          "deploy"
+        ]
+      }
+    }
+  },
+  "defaultBase": "master",
+  "plugins": [
+    {
+      "plugin": "@nx/eslint/plugin",
+      "options": {
+        "targetName": "eslint:lint"
+      }
+    }
+  ],
+  "tui": {
+    "enabled": false
+  }
+}

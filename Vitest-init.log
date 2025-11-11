@@ -1,0 +1,232 @@
+[INFO 11:13:39] [v0.0.0] Vitest extension is activated because Vitest is installed or there is a Vite/Vitest config file in the workspace.
+[INFO 11:13:40] [API] Resolving configs: package-3c0aw5v/vitest.config.ts, package-1vvngo5/vitest.config.ts, package-fk98bj/vitest.config.ts, package-s7k887/vitest.config.ts, package-21zh9i2/vitest.config.ts, package-1leu0ej/vitest.config.ts, package-39tql8h/vitest.config.ts, package-1i4m3yf/vitest.config.ts, package-1j1y9wv/vitest.config.ts, package-gu1sw2/vitest.config.ts, package-nx4ro2/vitest.config.ts, package-u4yvj0/vitest.config.ts, package-1475c1l/vitest.config.ts, package-teuav7/vitest.config.ts, package-m0v9ot/vitest.config.ts, package-tjb9hd/vitest.config.ts, package-j0z8j3/vitest.config.ts, package-177qwab/vitest.config.ts, package-2dc17n4/vitest.config.ts, package-3x0bfv/vitest.config.ts, package-1k2l1d/vitest.config.ts, package-17csvsv/vitest.config.ts, package-1ug8fl/vitest.config.ts, package-ec0znj/vitest.config.ts, package-k90vyq/vitest.config.ts, package-10uplf7/vitest.config.ts, package-ap404z/vitest.config.ts, package-14a687l/vitest.config.ts, package-195e0fj/vitest.config.ts, package-r8wzf0/vitest.config.ts, package-16uc61k/vitest.config.ts, package-nn9fvd/vitest.config.ts, package-hmkfme/vitest.config.ts
+[INFO 11:13:42] [TERMINAL] Initiated ws connection via ws://localhost:54798
+[INFO 11:13:42] [TERMINAL] Starting Vitest v3.2.4 (package-3c0aw5v/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:13:42] [TERMINAL] Shell integration is initiated.
+[INFO 11:13:42] [TERMINAL] Reporting the shell output.
+[INFO 11:13:42] [Worker] 
+[INFO 11:13:42] [Worker] 
+[INFO 11:13:43] [API] Vitest v3.2.4 (package-3c0aw5v/vitest.config.ts) terminal process 92875 created
+[INFO 11:13:44] [TERMINAL] Initiated ws connection via ws://localhost:54846
+[INFO 11:13:44] [TERMINAL] Starting Vitest v3.2.4 (package-1vvngo5/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:13:44] [TERMINAL] Shell integration is initiated.
+[INFO 11:13:44] [TERMINAL] Reporting the shell output.
+[INFO 11:13:44] [Worker] 
+[INFO 11:13:44] [Worker] 
+[INFO 11:13:44] [API] Vitest v3.2.4 (package-1vvngo5/vitest.config.ts) terminal process 93384 created
+[INFO 11:13:45] [TERMINAL] Initiated ws connection via ws://localhost:54854
+[INFO 11:13:45] [TERMINAL] Starting Vitest v3.2.4 (package-fk98bj/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:13:45] [TERMINAL] Shell integration is initiated.
+[INFO 11:13:46] [API] Vitest v3.2.4 (package-fk98bj/vitest.config.ts) terminal process 93603 created
+[INFO 11:13:47] [TERMINAL] Initiated ws connection via ws://localhost:54858
+[INFO 11:13:47] [TERMINAL] Starting Vitest v3.2.4 (package-s7k887/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:13:47] [TERMINAL] Shell integration is initiated.
+[INFO 11:13:47] [API] Vitest v3.2.4 (package-s7k887/vitest.config.ts) terminal process 93835 created
+[INFO 11:13:48] [TERMINAL] Initiated ws connection via ws://localhost:54860
+[INFO 11:13:48] [TERMINAL] Starting Vitest v3.2.4 (package-21zh9i2/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:13:48] [TERMINAL] Shell integration is initiated.
+[INFO 11:13:48] [TERMINAL] Reporting the shell output.
+[INFO 11:13:48] [Worker] 
+[INFO 11:13:48] [Worker] 
+[INFO 11:13:49] [API] Vitest v3.2.4 (package-21zh9i2/vitest.config.ts) terminal process 94056 created
+[INFO 11:13:50] [TERMINAL] Initiated ws connection via ws://localhost:54866
+[INFO 11:13:50] [TERMINAL] Starting Vitest v3.2.4 (package-1leu0ej/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:13:50] [TERMINAL] Shell integration is initiated.
+[INFO 11:13:51] [TERMINAL] Reporting the shell output.
+[INFO 11:13:51] [Worker] 
+[INFO 11:13:51] [Worker] 
+[INFO 11:13:52] [API] Vitest v3.2.4 (package-1leu0ej/vitest.config.ts) terminal process 94290 created
+[INFO 11:13:53] [TERMINAL] Initiated ws connection via ws://localhost:54895
+[INFO 11:13:53] [TERMINAL] Starting Vitest v3.2.4 (package-39tql8h/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:13:53] [TERMINAL] Shell integration is initiated.
+[INFO 11:13:53] [TERMINAL] Reporting the shell output.
+[INFO 11:13:53] [Worker] 
+[INFO 11:13:54] [Worker] 
+[INFO 11:13:54] [API] Vitest v3.2.4 (package-39tql8h/vitest.config.ts) terminal process 94612 created
+[INFO 11:13:55] [TERMINAL] Initiated ws connection via ws://localhost:54902
+[INFO 11:13:55] [TERMINAL] Starting Vitest v3.2.4 (package-1i4m3yf/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:13:55] [TERMINAL] Shell integration is initiated.
+[INFO 11:13:55] [TERMINAL] Reporting the shell output.
+[INFO 11:13:55] [Worker] 
+[INFO 11:13:55] [Worker] 
+[INFO 11:13:56] [API] Vitest v3.2.4 (package-1i4m3yf/vitest.config.ts) terminal process 94858 created
+[INFO 11:13:57] [TERMINAL] Initiated ws connection via ws://localhost:54906
+[INFO 11:13:57] [TERMINAL] Starting Vitest v3.2.4 (package-1j1y9wv/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:13:57] [TERMINAL] Shell integration is initiated.
+[INFO 11:13:57] [TERMINAL] Reporting the shell output.
+[INFO 11:13:57] [Worker] 
+[INFO 11:13:57] [Worker] 
+[INFO 11:13:57] [API] Vitest v3.2.4 (package-1j1y9wv/vitest.config.ts) terminal process 95091 created
+[INFO 11:13:58] [TERMINAL] Initiated ws connection via ws://localhost:54908
+[INFO 11:13:58] [TERMINAL] Starting Vitest v3.2.4 (package-gu1sw2/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:13:58] [TERMINAL] Shell integration is initiated.
+[INFO 11:13:58] [TERMINAL] Reporting the shell output.
+[INFO 11:13:59] [Worker] 
+[INFO 11:13:59] [Worker] 
+[INFO 11:13:59] [API] Vitest v3.2.4 (package-gu1sw2/vitest.config.ts) terminal process 95307 created
+[INFO 11:14:00] [TERMINAL] Initiated ws connection via ws://localhost:54911
+[INFO 11:14:00] [TERMINAL] Starting Vitest v3.2.4 (package-nx4ro2/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:00] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:01] [API] Vitest v3.2.4 (package-nx4ro2/vitest.config.ts) terminal process 95542 created
+[INFO 11:14:02] [TERMINAL] Initiated ws connection via ws://localhost:54916
+[INFO 11:14:02] [TERMINAL] Starting Vitest v3.2.4 (package-u4yvj0/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:02] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:02] [TERMINAL] Reporting the shell output.
+[INFO 11:14:02] [Worker] 
+[INFO 11:14:02] [Worker] 
+[INFO 11:14:02] [API] Vitest v3.2.4 (package-u4yvj0/vitest.config.ts) terminal process 95775 created
+[INFO 11:14:03] [TERMINAL] Initiated ws connection via ws://localhost:54921
+[INFO 11:14:03] [TERMINAL] Starting Vitest v3.2.4 (package-1475c1l/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:03] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:04] [API] Vitest v3.2.4 (package-1475c1l/vitest.config.ts) terminal process 95990 created
+[INFO 11:14:05] [TERMINAL] Initiated ws connection via ws://localhost:54924
+[INFO 11:14:05] [TERMINAL] Starting Vitest v3.2.4 (package-teuav7/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:05] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:06] [API] Vitest v3.2.4 (package-teuav7/vitest.config.ts) terminal process 96224 created
+[INFO 11:14:07] [TERMINAL] Initiated ws connection via ws://localhost:54927
+[INFO 11:14:07] [TERMINAL] Starting Vitest v3.2.4 (package-m0v9ot/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:07] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:07] [TERMINAL] Reporting the shell output.
+[INFO 11:14:07] [Worker] 
+[INFO 11:14:07] [Worker] 
+[INFO 11:14:07] [API] Vitest v3.2.4 (package-m0v9ot/vitest.config.ts) terminal process 96440 created
+[INFO 11:14:08] [TERMINAL] Initiated ws connection via ws://localhost:54929
+[INFO 11:14:08] [TERMINAL] Starting Vitest v3.2.4 (package-tjb9hd/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:08] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:09] [API] Vitest v3.2.4 (package-tjb9hd/vitest.config.ts) terminal process 96674 created
+[INFO 11:14:10] [TERMINAL] Initiated ws connection via ws://localhost:54932
+[INFO 11:14:10] [TERMINAL] Starting Vitest v3.2.4 (package-j0z8j3/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:10] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:10] [TERMINAL] Reporting the shell output.
+[INFO 11:14:10] [Worker] 
+[INFO 11:14:10] [Worker] 
+[INFO 11:14:10] [API] Vitest v3.2.4 (package-j0z8j3/vitest.config.ts) terminal process 96890 created
+[INFO 11:14:11] [TERMINAL] Initiated ws connection via ws://localhost:54934
+[INFO 11:14:11] [TERMINAL] Starting Vitest v3.2.4 (package-177qwab/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:11] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:12] [API] Vitest v3.2.4 (package-177qwab/vitest.config.ts) terminal process 97125 created
+[INFO 11:14:13] [TERMINAL] Initiated ws connection via ws://localhost:54941
+[INFO 11:14:13] [TERMINAL] Starting Vitest v3.2.4 (package-2dc17n4/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:13] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:13] [TERMINAL] Reporting the shell output.
+[INFO 11:14:13] [Worker] 
+[INFO 11:14:13] [Worker] 
+[INFO 11:14:14] [API] Vitest v3.2.4 (package-2dc17n4/vitest.config.ts) terminal process 97341 created
+[INFO 11:14:15] [TERMINAL] Initiated ws connection via ws://localhost:54943
+[INFO 11:14:15] [TERMINAL] Starting Vitest v3.2.4 (package-3x0bfv/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:15] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:15] [TERMINAL] Reporting the shell output.
+[INFO 11:14:15] [Worker] 
+[INFO 11:14:15] [Worker] 
+[INFO 11:14:16] [API] Vitest v3.2.4 (package-3x0bfv/vitest.config.ts) terminal process 97575 created
+[INFO 11:14:17] [TERMINAL] Initiated ws connection via ws://localhost:54950
+[INFO 11:14:17] [TERMINAL] Starting Vitest v3.2.4 (package-1k2l1d/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:17] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:17] [TERMINAL] Reporting the shell output.
+[INFO 11:14:17] [Worker] 
+[INFO 11:14:17] [Worker] 
+[INFO 11:14:18] [API] Vitest v3.2.4 (package-1k2l1d/vitest.config.ts) terminal process 97799 created
+[INFO 11:14:18] [TERMINAL] Initiated ws connection via ws://localhost:54953
+[INFO 11:14:18] [TERMINAL] Starting Vitest v3.2.4 (package-17csvsv/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:18] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:18] [TERMINAL] Reporting the shell output.
+[INFO 11:14:19] [Worker] 
+[INFO 11:14:19] [Worker] 
+[INFO 11:14:19] [API] Vitest v3.2.4 (package-17csvsv/vitest.config.ts) terminal process 98031 created
+[INFO 11:14:20] [TERMINAL] Initiated ws connection via ws://localhost:54956
+[INFO 11:14:20] [TERMINAL] Starting Vitest v3.2.4 (package-1ug8fl/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:20] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:20] [TERMINAL] Reporting the shell output.
+[INFO 11:14:20] [Worker] 
+[INFO 11:14:20] [Worker] 
+[INFO 11:14:21] [API] Vitest v3.2.4 (package-1ug8fl/vitest.config.ts) terminal process 98267 created
+[INFO 11:14:22] [TERMINAL] Initiated ws connection via ws://localhost:54959
+[INFO 11:14:22] [TERMINAL] Starting Vitest v3.2.4 (package-ec0znj/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:22] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:22] [API] Vitest v3.2.4 (package-ec0znj/vitest.config.ts) terminal process 98483 created
+[INFO 11:14:23] [TERMINAL] Initiated ws connection via ws://localhost:54962
+[INFO 11:14:23] [TERMINAL] Starting Vitest v3.2.4 (package-k90vyq/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:23] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:23] [TERMINAL] Reporting the shell output.
+[INFO 11:14:23] [Worker] 
+[INFO 11:14:24] [Worker] 
+[INFO 11:14:24] [API] Vitest v3.2.4 (package-k90vyq/vitest.config.ts) terminal process 98698 created
+[INFO 11:14:25] [TERMINAL] Initiated ws connection via ws://localhost:54966
+[INFO 11:14:25] [TERMINAL] Starting Vitest v3.2.4 (package-10uplf7/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:25] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:26] [API] Vitest v3.2.4 (package-10uplf7/vitest.config.ts) terminal process 98934 created
+[INFO 11:14:27] [TERMINAL] Initiated ws connection via ws://localhost:54968
+[INFO 11:14:27] [TERMINAL] Starting Vitest v3.2.4 (package-ap404z/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:27] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:27] [TERMINAL] Reporting the shell output.
+[INFO 11:14:27] [Worker] 
+[INFO 11:14:27] [Worker] 
+[INFO 11:14:27] [API] Vitest v3.2.4 (package-ap404z/vitest.config.ts) terminal process 99154 created
+[INFO 11:14:28] [TERMINAL] Initiated ws connection via ws://localhost:54971
+[INFO 11:14:28] [TERMINAL] Starting Vitest v3.2.4 (package-14a687l/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:28] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:28] [TERMINAL] Reporting the shell output.
+[INFO 11:14:28] [Worker] 
+[INFO 11:14:29] [Worker] 
+[INFO 11:14:29] [API] Vitest v3.2.4 (package-14a687l/vitest.config.ts) terminal process 99388 created
+[INFO 11:14:30] [TERMINAL] Initiated ws connection via ws://localhost:54975
+[INFO 11:14:30] [TERMINAL] Starting Vitest v3.2.4 (package-195e0fj/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:30] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:30] [TERMINAL] Reporting the shell output.
+[INFO 11:14:30] [Worker] 
+[INFO 11:14:30] [Worker] 
+[INFO 11:14:31] [API] Vitest v3.2.4 (package-195e0fj/vitest.config.ts) terminal process 99604 created
+[INFO 11:14:31] [TERMINAL] Initiated ws connection via ws://localhost:54977
+[INFO 11:14:31] [TERMINAL] Starting Vitest v3.2.4 (package-r8wzf0/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:31] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:32] [API] Vitest v3.2.4 (package-r8wzf0/vitest.config.ts) terminal process 99839 created
+[INFO 11:14:33] [TERMINAL] Initiated ws connection via ws://localhost:54980
+[INFO 11:14:33] [TERMINAL] Starting Vitest v3.2.4 (package-16uc61k/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:33] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:33] [TERMINAL] Reporting the shell output.
+[INFO 11:14:33] [Worker] 
+[INFO 11:14:33] [Worker] 
+[INFO 11:14:34] [API] Vitest v3.2.4 (package-16uc61k/vitest.config.ts) terminal process 156 created
+[INFO 11:14:35] [TERMINAL] Initiated ws connection via ws://localhost:54982
+[INFO 11:14:35] [TERMINAL] Starting Vitest v3.2.4 (package-nn9fvd/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:35] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:35] [API] Vitest v3.2.4 (package-nn9fvd/vitest.config.ts) terminal process 372 created
+[INFO 11:14:36] [TERMINAL] Initiated ws connection via ws://localhost:54986
+[INFO 11:14:36] [TERMINAL] Starting Vitest v3.2.4 (package-hmkfme/vitest.config.ts) in the terminal: node /Users/johnhartnup/.cursor/extensions/vitest.explorer-1.32.1-universal/dist/worker.js;
+[INFO 11:14:36] [TERMINAL] Shell integration is initiated.
+[INFO 11:14:37] [API] Vitest v3.2.4 (package-hmkfme/vitest.config.ts) terminal process 698 created
+[INFO 11:14:37] [API] Watching packages/calculators/package-3c0aw5v/vitest.config.ts
+[INFO 11:14:37] [VSCODE] Watching vitest-bug with pattern **/*.test.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-1vvngo5/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-fk98bj/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-s7k887/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-21zh9i2/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-1leu0ej/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-39tql8h/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-1i4m3yf/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-1j1y9wv/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-gu1sw2/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-nx4ro2/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-u4yvj0/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-1475c1l/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-teuav7/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-m0v9ot/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-tjb9hd/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-j0z8j3/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-177qwab/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-2dc17n4/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-3x0bfv/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-1k2l1d/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-17csvsv/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-1ug8fl/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-ec0znj/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-k90vyq/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-10uplf7/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-ap404z/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-14a687l/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-195e0fj/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-r8wzf0/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/common/package-16uc61k/vitest.config.ts
+[INFO 11:14:37] [API] Collecting tests: packages/calculators/package-ec0znj/src/dir-1z6tn/dir-fq9qni/test-30r4r2s.test.ts, packages/calculators/package-ec0znj/src/dir-1z6tn/dir-fq9qni/dir-tbltoz/test-1hvpy39.test.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-nn9fvd/vitest.config.ts
+[INFO 11:14:37] [API] Watching packages/calculators/package-hmkfme/vitest.config.ts
